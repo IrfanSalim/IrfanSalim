@@ -1,4 +1,4 @@
-## <p align="center">Hello world, I'm [Irfan Salim](https://www.linkedin.com/in/md-irfan-salim/)</p>
+## <p align="center">Hi there 👋, I'm [Irfan Salim](https://www.linkedin.com/in/md-irfan-salim/)</p>
 
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
